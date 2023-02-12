@@ -1,0 +1,27 @@
+body{
+    background-color: #080808;
+}
+.city{
+    color: #0D6EFD;
+}
+h1{
+    color: #fff;
+}
+li{
+    color: #FFFFFF8C;
+}
+img{
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+}
+h2{
+    color: #fff;
+}
+th,td{
+    color: #fff;
+}
+.footer{
+    color: #FFFFFF8C;
+    text-decoration: none;
+}
