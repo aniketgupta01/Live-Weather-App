@@ -30,3 +30,13 @@ th,td{
     color: #0D6EFD;
     font-weight: 700;
 }
+.f-city{
+    border: none;
+    font-size: large;
+    background-color: #080808;
+    color: #fff;
+    border-radius: 4px;
+}
+.dropdown-menu{
+    background-color: #080808;
+}

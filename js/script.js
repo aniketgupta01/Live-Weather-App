@@ -119,4 +119,21 @@ fetch(
         })
       
         .catch((err) => console.error(err));
+
+        submit_lucknow.addEventListener("click", (e) => {
+          e.preventDefault();
+          getWeather("Lucknow");
+        });
+        submit_nyc.addEventListener("click", (e) => {
+          e.preventDefault();
+          getWeather("New York");
+        });
+        submit_paris.addEventListener("click", (e) => {
+          e.preventDefault();
+          getWeather("Paris");
+        });
+        submit_chandigarh.addEventListener("click", (e) => {
+          e.preventDefault();
+          getWeather("Chandigarh");
+        });
   
