@@ -24,4 +24,9 @@ th,td{
 .footer{
     color: #FFFFFF8C;
     text-decoration: none;
+    
+}
+.footer a{
+    color: #0D6EFD;
+    font-weight: 700;
 }
